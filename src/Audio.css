@@ -1,0 +1,43 @@
+
+
+.audio-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20px;
+  width: 100%;
+}
+
+.audio{
+    display: hidden;
+}
+
+.progress-bar-content{
+    height: .2rem;
+    background-color: lightgray;
+    width: 95%;
+}
+
+.progress-bar{
+    background-color: #61fb69;
+    width: 40%;
+    height: 100%;
+}
+
+.audio-control{
+    width: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+button > img{
+   width: 20px;
+   height: 20px;
+}

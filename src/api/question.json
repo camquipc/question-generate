@@ -1,0 +1,87 @@
+
+
+{
+    "question": [
+        {
+            "num": "1",
+            "commande":"After hearing the conversation in the audio. Answer why richard wants to goto Mexico",
+            "options": [
+                {
+                    "type":"A",
+                    "value":"Most of his family lives there"
+                },
+                {
+                    "type":"B",
+                    "value":"He wants to see the Aztecas pyramids"
+                },
+                {
+                    "type":"C",
+                    "value":"He is afan of Mexian food"
+                },
+                {
+                    "type":"D",
+                    "value":"Beacause he wants to cross the Mexico-US frontier"
+                }
+            ],
+            "content":{
+                "image":"",
+                "sound":""
+            },
+            "response":"B"
+        },
+        {
+            "num": "2",
+            "commande":"After hearing the conversation in the audio. Answer why richard wants to goto Mexico",
+            "options": [{
+                "type":"1",
+                    "value":"Most of his family lives there"
+                },
+                {
+                    "type":"2",
+                    "value":"He wants to see the Aztecas pyramids"
+                },
+                {
+                    "type":"3",
+                    "value":"He is afan of Mexian food"
+                },
+                {
+                    "type":"4",
+                    "value":"Beacause he wants to cross the Mexico-US frontier"
+                }
+            ],
+            "content":{
+                "image":"",
+                "sound":""
+            },
+            "response":"2"
+        },
+        {
+            "num": "3",
+            "commande":"After hearing the conversation in the audio. Answer why richard wants to goto Mexico",
+            "options": [
+                {
+                    "type":"A",
+                    "value":"Most of his family lives there"
+                },
+                {
+                    "type":"B",
+                    "value":"He wants to see the Aztecas pyramids"
+                },
+                {
+                    "type":"C",
+                    "value":"He is afan of Mexian food"
+                },
+                {
+                    "type":"D",
+                    "value":"Beacause he wants to cross the Mexico-US frontier"
+                }
+            ],
+            "content":{
+                "image":"",
+                "sound":""
+            },
+            "response":"D"
+        }
+    ] 
+}
+
